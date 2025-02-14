@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\world-of-tanks\CMakeFiles\f3b67c7f96c636dc6241ad5125edd75d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ECB026A4-CBA8-3044-9953-0CAE25CC22E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

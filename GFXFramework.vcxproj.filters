@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Buildings.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\EnemyTanks.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\GameConstants.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\GameInit.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Projectiles.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Renderer.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\TankComponent.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\World_OF_Tanks.cpp">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Color.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Default.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\MVP.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\MVP.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Model.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Normals.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Screen.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Screen.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Simple.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Text.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\Text.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\assets\shaders\VertexColor.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Buildings.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Camera3rdPerson.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\EnemyTanks.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\GameConstants.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\GameInit.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Projectiles.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Renderer.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\TankComponent.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\Transforms3D.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\World_OF_Tanks.h">
+      <Filter>src\World_OF_Tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\FragmentShaderBuilding.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\FragmentShaderEnemy.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\FragmentShaderPlane.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\FragmentShaderPlayer.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\VertexShaderBuilding.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\VertexShaderEnemy.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\VertexShaderPlane.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\World_OF_Tanks\shaders\VertexShaderPlayer.glsl">
+      <Filter>src\World_OF_Tanks\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\world-of-tanks\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\world-of-tanks\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{7EF20002-F838-3921-868E-8AFC5DCDE970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\shaders">
+      <UniqueIdentifier>{2F9340FA-0547-383E-B80F-01332500166E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{DB4ACEA0-47EF-3DFE-A8DE-ABC3E0759431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\World_OF_Tanks">
+      <UniqueIdentifier>{7109B062-3053-34DC-BD82-FAB67309B7C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\World_OF_Tanks\shaders">
+      <UniqueIdentifier>{8A4C92F3-F0B1-3E98-B2F7-B223275C3F9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{1C6A45CF-AEEA-340C-A036-38C979ED54C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{FDF6D645-74AE-30BE-BCA0-52A7E8EB2D36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{D0CC4E6F-64BD-3024-9DCD-DCE78386C02D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{EA0FADE4-FEA0-31FE-9E39-DDA5B71F1EF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{DBBAA95D-A169-3253-B89F-8E304DB75C24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{3AC036F2-4DC4-39FC-97A6-A3B3EEC9C633}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

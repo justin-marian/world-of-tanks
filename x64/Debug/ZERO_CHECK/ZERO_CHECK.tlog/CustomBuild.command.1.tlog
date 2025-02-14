@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\WORLD-OF-TANKS\CMAKEFILES\F3B67C7F96C636DC6241AD5125EDD75D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/world-of-tanks -BC:/Users/Asus/Desktop/world-of-tanks --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/world-of-tanks/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
